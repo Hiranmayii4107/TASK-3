@@ -1,0 +1,25 @@
+TASK 3
+
+The key concepts are : Vulnerability scanning, risk assessment, CVSS, remediation, security tools.
+And the outcomes of this task will be Introductory vulnerability assessment experience and understanding of common PC risks.
+Tools used:  OpenVAS Community Edition (free vulnerability scanner) or Nessus Essentials
+
+--> Installed Nessus Essentials.
+--> Set up scan target as your localhost.
+--> Started a full vulnerability scan.
+--> Waited for scan to complete.
+--> Reviewed the report for vulnerabilities and severity.
+--> Researched simple fixes or mitigations for found vulnerabilities.
+--> Documented the most critical vulnerabilities.
+
+
+RESULT:
+Target Scanned: 127.0.0.1 (Localhost)
+
+Scan Type: Full vulnerability scan – Basic Network Scan
+
+Duration: around 45 minutes
+
+Vulnerability Summary: 🟦 Low- 12 vulnerabilities.
+
+The vulnerability scan helped identify and prioritize system risks. Critical and high-severity issues were documented and addressed with appropriate fixes or mitigations. Regular scans will be scheduled to maintain security hygiene.
